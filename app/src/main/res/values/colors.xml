@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorOrange">#FF8D00</color>
+    <color name="colorYellow">#CDDC39</color>
+    <color name="colorOrange200">#FFCC80</color>
+
+    <color name="divider">#f0f0f0</color>
+    <color name="black_text_color">#2D2D2D</color>
+    <color name="grey_text_color">#7F7F84</color>
+    <color name="cardColor">#ECEFF1</color>
+</resources>

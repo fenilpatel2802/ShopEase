@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShopEase</string>
+    <string name="press_again_to_close">Press back again to close the</string>
+    <!-- login ui-->
+    <string name="india_s_fastest_app">India\'s fastest app</string>
+    <string name="log_in">Log in</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <!-- home ui-->
+    <string name="let_s_gets_somethings">Let\'s gets somethings?</string>
+    <string name="hello">Hello</string>
+    <string name="products">Products</string>
+    <!-- product detail ui -->
+    <string name="details">Details</string>
+    <string name="stock_available">Stock available : </string>
+
+    <!-- validation -->
+    <string name="email_address_required">Email address is mandatory</string>
+    <string name="password_required">Password is mandatory</string>
+    <string name="login_failed">Invalid credentials, please try again</string>
+
+    <!-- todo remove -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
